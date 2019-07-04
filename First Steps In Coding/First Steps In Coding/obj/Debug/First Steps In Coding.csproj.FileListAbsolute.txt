@@ -1,0 +1,7 @@
+D:\Softuni\First Steps In Coding\First Steps In Coding\bin\Debug\First Steps In Coding.exe.config
+D:\Softuni\First Steps In Coding\First Steps In Coding\bin\Debug\First Steps In Coding.exe
+D:\Softuni\First Steps In Coding\First Steps In Coding\bin\Debug\First Steps In Coding.pdb
+D:\Softuni\First Steps In Coding\First Steps In Coding\obj\Debug\First Steps In Coding.csprojAssemblyReference.cache
+D:\Softuni\First Steps In Coding\First Steps In Coding\obj\Debug\First Steps In Coding.csproj.CoreCompileInputs.cache
+D:\Softuni\First Steps In Coding\First Steps In Coding\obj\Debug\First Steps In Coding.exe
+D:\Softuni\First Steps In Coding\First Steps In Coding\obj\Debug\First Steps In Coding.pdb
