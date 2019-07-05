@@ -1,6 +1,0 @@
-D:\Softuni\First Steps In Coding\02. Expression\bin\Debug\_02.Expression.exe.config
-D:\Softuni\First Steps In Coding\02. Expression\bin\Debug\_02.Expression.exe
-D:\Softuni\First Steps In Coding\02. Expression\bin\Debug\_02.Expression.pdb
-D:\Softuni\First Steps In Coding\02. Expression\obj\Debug\02. Expression.csproj.CoreCompileInputs.cache
-D:\Softuni\First Steps In Coding\02. Expression\obj\Debug\_02.Expression.exe
-D:\Softuni\First Steps In Coding\02. Expression\obj\Debug\_02.Expression.pdb
