@@ -1,7 +1,0 @@
-D:\Softuni\First Steps In Coding\01. Hello SoftUni\bin\Debug\_01.Hello_SoftUni.exe.config
-D:\Softuni\First Steps In Coding\01. Hello SoftUni\bin\Debug\_01.Hello_SoftUni.exe
-D:\Softuni\First Steps In Coding\01. Hello SoftUni\bin\Debug\_01.Hello_SoftUni.pdb
-D:\Softuni\First Steps In Coding\01. Hello SoftUni\obj\Debug\01. Hello SoftUni.csprojAssemblyReference.cache
-D:\Softuni\First Steps In Coding\01. Hello SoftUni\obj\Debug\01. Hello SoftUni.csproj.CoreCompileInputs.cache
-D:\Softuni\First Steps In Coding\01. Hello SoftUni\obj\Debug\_01.Hello_SoftUni.exe
-D:\Softuni\First Steps In Coding\01. Hello SoftUni\obj\Debug\_01.Hello_SoftUni.pdb
