@@ -11,26 +11,23 @@ namespace Scholarships
         static void Main(string[] args)
         {
             double income = double.Parse(Console.ReadLine());
-            double success = double.Parse(Console.ReadLine());
-            double salary = double.Parse(Console.ReadLine());
-            double social = salary * 0.35;
-            double excellent = success * 25;
-
-            if (income > salary && success < 5.50)
+            double results = double.Parse(Console.ReadLine());
+            double minSalary = double.Parse(Console.ReadLine());
+            double scholarshipS = minSalary * 35 / 100;
+            double scholarshipE = results * 25;
+            if (results >= 5.5)
             {
-                Console.WriteLine("You cannot get a scholarship!");
+                if (scholarshipE >= scholarshipS || income > minSalary)
+                    Console.WriteLine("You get a scholarship for excellent results {0} BGN", Math.Floor(scholarshipE));
+                else Console.WriteLine("You get a Social scholarship {0} BGN", Math.Floor(scholarshipS));
             }
-            if (income > salary && success >=5.50)
+            else if (income < minSalary && results > 4.5)
             {
-                Console.WriteLine($"You get a scholarship for excellent results {excellent} BGN");
-
-            }
-            if (income < salary && success >= 5.50)
-            {
-                Console.WriteLine($"You get a Social scholarship {social} BGN");
+                Console.WriteLine("You get a Social scholarship {0} BGN", Math.Floor(scholarshipS));
             }
 
-            
+            else Console.WriteLine("You cannot get a scholarship!");
+
         }
     }
 }
